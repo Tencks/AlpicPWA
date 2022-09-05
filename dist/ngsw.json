@@ -1,0 +1,101 @@
+{
+  "configVersion": 1,
+  "timestamp": 1661746116921,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.b6352c35c1fe0cbf.js",
+        "/manifest.webmanifest",
+        "/polyfills.f89ee8339770dac3.js",
+        "/runtime.09088bf65122e40d.js",
+        "/scripts.90401e309df1b6a9.js",
+        "/styles.9e1bae101f09d9ed.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/Argentina.svg",
+        "/assets/banderita.png",
+        "/assets/banner2alpic.jpg",
+        "/assets/consulta.jpeg",
+        "/assets/icons/icon-128x128.svg",
+        "/assets/icons/icon-144x144.svg",
+        "/assets/icons/icon-152x152.svg",
+        "/assets/icons/icon-192x192.svg",
+        "/assets/icons/icon-256x256.svg",
+        "/assets/icons/icon-384x384.svg",
+        "/assets/icons/icon-512x512.svg",
+        "/assets/icons/icon-72x72.svg",
+        "/assets/icons/icon-96x96.svg",
+        "/assets/leyes discapacidad.jpg",
+        "/assets/logo ALPIC.jpg",
+        "/assets/portada Banner ALPIC.png",
+        "/assets/transparencia.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/Argentina.svg": "84de098d8f5be64edafd498a44f0875c2b314038",
+    "/assets/banderita.png": "758169526830cf8a0e4e2ffa3de69040bbe3fd73",
+    "/assets/banner2alpic.jpg": "4640be2cddaa42167b9c39a836b0a700416b815d",
+    "/assets/consulta.jpeg": "86ec489e797fb66722bd0daa3ccfc361bdf317a3",
+    "/assets/icons/icon-128x128.svg": "2e37f4c72dab708d09365620b04782b36cc5d51d",
+    "/assets/icons/icon-144x144.svg": "1daf0aa67505c0e7cccadc5855d7d38414596134",
+    "/assets/icons/icon-152x152.svg": "ba793ddaddc3ab5d04687958f6ee0586503ecf4e",
+    "/assets/icons/icon-192x192.svg": "9a8d63e90d0004c258145adfafed0b67f1518151",
+    "/assets/icons/icon-256x256.svg": "2f8ff7a7058e0757f26156c186ca6436f6fe5752",
+    "/assets/icons/icon-384x384.svg": "2e856674b9dccc703a8969b8925a57162be51efd",
+    "/assets/icons/icon-512x512.svg": "0ac9ddb24fc807ae8c1719c84f0640c910caa894",
+    "/assets/icons/icon-72x72.svg": "8d7c625075b11f7dd2fb977855aaac48fbd71cc0",
+    "/assets/icons/icon-96x96.svg": "9969f1b0f449f7634660f5409868d6f2788bf72f",
+    "/assets/leyes discapacidad.jpg": "b1256273bee2ede058a1ae02c22c9983208f3044",
+    "/assets/logo ALPIC.jpg": "af2dd642c22c8b6c7adc07a61b15d80a0e4a8899",
+    "/assets/portada Banner ALPIC.png": "f392bb131b35d4caf06a48130aa4e6ed16a4f590",
+    "/assets/transparencia.png": "b06653ec306fef28d146705a11b3a159104693ff",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "53b42c65ab34ed177b4ed30aacdde88483c0b854",
+    "/main.b6352c35c1fe0cbf.js": "9cb9d54fc17ec3c5a1c501598c821132431718bb",
+    "/manifest.webmanifest": "f638697b85a17845343dc06c253d25c7d419fb67",
+    "/polyfills.f89ee8339770dac3.js": "748683911a4378b3cdb12c0646b2deb3c174a19d",
+    "/runtime.09088bf65122e40d.js": "9ddf2e220223899aceb85f5755d857ddafb7a9ca",
+    "/scripts.90401e309df1b6a9.js": "742b820505b2d7f814cc7aa1c1ca8549d68c0bdb",
+    "/styles.9e1bae101f09d9ed.css": "059e9872fa89d0c464af06c8f66c8b44bc563546"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
